@@ -80,6 +80,31 @@ https://freefrontend.com/bootstrap-login-forms/   \
 https://bbbootstrap.com/snippets/bootstrap-5-login-form-using-neomorphism-89456141
 
 
-## sass
+## dependencies
+
+sass
 npm install --save-dev sass \
+
+then 
+
+`npm run sass`
+
 <https://medium.com/nerd-for-tech/add-sass-to-your-react-app-in-2021-here-is-how-c7260c323a5a>
+
+
+
+react-router-dom
+
+https://v5.reactrouter.com/web/guides/quick-start  \
+https://stackoverflow.com/questions/69832748/error-error-a-route-is-only-ever-to-be-used-as-the-child-of-routes-element  \
+
+
+## resources
+
+protected routes  \
+<https://github.com/LuminousIT/auth-protected-route/blob/master/src/App.js>  
+
+
+
+## todo
+-  indent code reactjs 
